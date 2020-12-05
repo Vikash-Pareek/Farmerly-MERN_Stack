@@ -63,5 +63,3 @@
     7. Admin can create Brands
     8. Admin can view rented equipments
     9. Admin can change the status of a equipment (processing, shipped, delivered, etc.)
-
-5. <b>Deployed on</br> https://farmerly-mern-stack.herokuapp.com/
