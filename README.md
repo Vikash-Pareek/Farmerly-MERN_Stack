@@ -65,4 +65,4 @@
     9. Admin can change the status of a equipment (processing, shipped, delivered, etc.)
  
 5. <b>Deployed to Netlify :</b>
-   <br/>https://sleepy-ptolemy-5d2cf1.netlify.app/
+   <br/><b>https://farmerly-mern.netlify.app/</b>
